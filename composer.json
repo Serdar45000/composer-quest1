@@ -1,0 +1,19 @@
+{
+    "name": "serdarhome/simple-mvc",
+    "description": "quest composer",
+    "authors": [
+        {
+            "name": "Serdar45000",
+            "email": "serdar45000@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": 
+            {
+                "App\\": "src/"
+            }
+    }
+}
+

@@ -1,0 +1,15 @@
+Dockerfile
+README.md
+Simple - MVC.png
+captain-definition
+config/
+docker-entry.sh
+grumphp.yml
+nginx.conf
+php.ini
+phpcs.xml
+phpmd.xml
+phpstan.neon
+simple-mvc.sql
+vendor/
+composer.lock
