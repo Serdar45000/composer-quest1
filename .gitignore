@@ -12,4 +12,4 @@ phpmd.xml
 phpstan.neon
 simple-mvc.sql
 vendor/
-composer.lock
+composer.json
